@@ -8,6 +8,6 @@ To use the application, you need to provide points of a closed curve, such as (1
 
 ## Learn More
 
-You can learn more of how the planimeter works by looking at:
+You can learn more of how the planimeter works by looking at:\
 [Planimeter Proofs for Calculus Class](https://sites.icmc.usp.br/szani/sma332/material/PlanimetersCalculusRevised.pdf)\
 [O planímetro polar de Amsler no ensino de geometria](https://www.fc.unesp.br/Home/Departamentos/Matematica/revistacqd2228/v19a04-o-planimetro-polar-de-amsler-no-ensino.pdf)
