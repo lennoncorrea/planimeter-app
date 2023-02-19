@@ -1,0 +1,1 @@
+export type Precision = "high" | "medium" | "low";
